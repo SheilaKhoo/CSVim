@@ -6,3 +6,5 @@ or
 python csvim.py --file filename.csv
 
 The controls will be displayed at the bottom of the screen.
+
+A demo video can be found here: https://www.youtube.com/watch?v=FBy4kqFGNxc
