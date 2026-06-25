@@ -561,10 +561,10 @@ try:
                 mode = "Save"
                 menu_selection = True
             # Test code for when you want to verify what number the key is
-            else:
-                screen.addstr(14, 14, str(key), curses.A_UNDERLINE)
-                screen.refresh()
-                curses.napms(500)
+            #else:
+            #    screen.addstr(14, 14, str(key), curses.A_UNDERLINE)
+            #    screen.refresh()
+            #    curses.napms(500)
         elif mode == "Cell":
             screen.refresh()
             curses.flushinp()
