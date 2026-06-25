@@ -9,7 +9,7 @@ Enter: Edit Cell
 Shift+W/A/S/D: Add Row/Column  
 Del: Delete Row/Col  
 <: Undo  
->: Redo  
+\>: Redo  
 Q: Quit  
 
 A demo video can be found here: https://www.youtube.com/watch?v=FBy4kqFGNxc
